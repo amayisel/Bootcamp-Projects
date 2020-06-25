@@ -13,9 +13,3 @@ void ft_is_negative (int n)
 	else
 		ft_putchar ('N');
 }
-int main (void)
-{
-	ft_is_negative (60);
-	ft_putchar ('\n');
-	return 0;
-}

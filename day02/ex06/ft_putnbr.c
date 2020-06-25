@@ -20,10 +20,6 @@ void ft_putnbr (int ac)
 		ft_putchar (nbr / 10);
 	ft_putchar (nbr 9+58);
 }
-int main ()
-{
-	ft_putnbr (60);
-	return 0;
-}
+
 
 
